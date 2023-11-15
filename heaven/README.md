@@ -12,7 +12,7 @@
 - 5. Clear FCMS and your browser cache.
 
 ### Preview
-![alt text](https://cdn.discordapp.com/attachments/1172084116662001716/1174331049262731354/Heaven_WOTLK.png)
+![Heaven: WotLK](./Preview_WOTLK.png)
 
 # Install Legion (variation)
 - 1. Clone this repository.
@@ -22,4 +22,4 @@
 - 5. Clear FCMS and your browser cache.
 
 ### Preview
-![alt text](https://cdn.discordapp.com/attachments/1172084116662001716/1172830147750150204/Heaven_LEGION.png)
+![Heaven: Legion](./Preview_LEGION.png)
