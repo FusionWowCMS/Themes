@@ -1,4 +1,10 @@
-<?php defined('BASEPATH') OR exit('No direct script access allowed');
+<?php
+
+# Import required classes
+use MX\CI;
+
+# Make sure we're in CI
+defined('BASEPATH') OR exit('No direct script access allowed');
 
 # Load theme assets
 require(T_ROOT_PATH . 'config' . DS . 'template_assets' . PHP);
